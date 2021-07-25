@@ -159,13 +159,13 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM By JONATHA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/IMG_5358.JPG/revision/latest/scale-to-width-down/250?cb=20170629220648",FOX FAMILY MOVIES
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/4304/brand.gif?itok=H97sqIxC" group-title="PREMIUM By JONATHA", HBO
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+https://gratismkctv.net/film/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/H/img/HBO_Signature.gif" group-title="PREMIUM By JONATHA",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vU0lHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=XPcUvt22cPfWlaTvZIFVTopWXz-gcftvZHtYimxZfYl90uif8HFUSu8UFy04VNbRlMKlUwPCfBP-04dw8nM~t4f~7VB5b1L12FsphQy-0DUoRV5W9mF8mm5rab5xFaBbGChVFkvIqfNzae~6zIMAE0LpPukmSYrN-jozArwLO0tTTNpAj0IGM9cHikREQYA-yK5TYA18OvpTsC4MxAbtmYiKnPmQIsYDqgvLKhiQRwCpJRfTWQmkdrOG3wE~B~8htVFuQ9OxukjuiofDQGQPYkp5hP6H2SYWhxNFzS~GBBKAEieJk4gCb7~rXSIaQ9h9OMubcpC4vx9h5S~Sj1-Img__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
 #EXTINF:-1 group-title="PREMIUM By JONATHA" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_5hbo_hits.jpg", HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE2ODU5MDUwfX19XX0_&Signature=CSvs2lSeOnE8Y8ik9hFU2AmsTv9qv82LxOza9BP-PcnkhTCTA1yWKYj2ZZkrXAmHjLVsv5ZPRhR3VY6Mj~6hMUd0Yjz9CxxN2z601SJXzhrXqcz95DZkZivVPNbVLkztIeP31pJz37i4FPVDfedvRJWB1k1aVuxPTKs7STTPTLSLRReBbeE-TE9D72Gz20a5vs1bJeRVDqqTNWxqeoouK0XRamXQrGm0RUl6-CXQgdbe48N0selurGFoPcjW9m8aJtbL9NvUfdhuCcunhReM~I02sINjOTFr1xnzmAOb~xRccvCyfvFTr0VTHGDE07ATsPWafL~c0geuKu9XKh3NLA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="PREMIUM By JONATHA",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=WmAH4TlOSLquNm9os2qzNm9DI35GAceSQ9ac7CPmWkZ~rUNr8reKyLradmMKuHYQF4d68HmOwVGF5WM2rsn3POJDe4t8wR9xnsIITgslI9wWGjpUWOGEeDf-g88kTUoeDwi-YwlW4MdgKMGSa~OpdDm19XygFpit2IlmpZi3KtBl7p~vxrlx30SjOdC06Bj6vC~aUX5bFO2~L9osDwlhREJytLYDfPN8hf2w8T3vnEsjoYuueMvGZUk0nxDKXj3BMrHv2C-w8Hfx83PIyJ5Qp1dIfWBXXGmOBELzvyh7f04G0gLWr8I-mS6yQDG-v~ON5CnO0FmloihQtCaEaABUIg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
