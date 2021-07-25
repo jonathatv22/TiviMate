@@ -162,10 +162,10 @@ http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 https://gratismkctv.net/film/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/H/img/HBO_Signature.gif" group-title="PREMIUM By JONATHA",HBO Signature
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+https://www.dropbox.com/s/dl/i77lg3livx7qhzj/carawaktv-hbosig.m3u8
 
 #EXTINF:-1 group-title="PREMIUM By JONATHA" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_5hbo_hits.jpg", HBO Hits
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+https://www.dropbox.com/s/dl/i6sz78ezl98lrrc/carawaktv-hbohits.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="PREMIUM By JONATHA",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=WmAH4TlOSLquNm9os2qzNm9DI35GAceSQ9ac7CPmWkZ~rUNr8reKyLradmMKuHYQF4d68HmOwVGF5WM2rsn3POJDe4t8wR9xnsIITgslI9wWGjpUWOGEeDf-g88kTUoeDwi-YwlW4MdgKMGSa~OpdDm19XygFpit2IlmpZi3KtBl7p~vxrlx30SjOdC06Bj6vC~aUX5bFO2~L9osDwlhREJytLYDfPN8hf2w8T3vnEsjoYuueMvGZUk0nxDKXj3BMrHv2C-w8Hfx83PIyJ5Qp1dIfWBXXGmOBELzvyh7f04G0gLWr8I-mS6yQDG-v~ON5CnO0FmloihQtCaEaABUIg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
@@ -276,9 +276,11 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&syn
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
 #EXTINF:-1  group-title="Knowledge",History
-https://home-tv.web.id/RHS/youtubempd.m3u8?channel=history
+http://iptvtree.net:8080/Ainamanja/6a4fef36/264522
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
-https://home-tv.web.id/RHS/youtubempd.m3u8?channel=disco
+http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery kids
+http://iptvtree.net:8080/Ainamanja/6a4fef36/264570
 #EXTINF:-1  group-title="Knowledge",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1  group-title="Knowledge",Love Nature 4K
