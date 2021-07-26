@@ -161,6 +161,10 @@ http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/4304/brand.gif?itok=H97sqIxC" group-title="PREMIUM By JONATHA", HBO
 https://gratismkctv.net/film/hbo.m3u8
 
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQExkmcz9dsSgK5Le_1zj9O0uVR52gaTasqJLkRkmZ4H2O9iVi-jMo0UhGDE9Sl8z8X_Mc&usqp=CAU" group-title="PREMIUM By JONATHA" ,RED by HBO
+https://www.dropbox.com/s/dl/ds2ux7bmbz5k7f3/carawaktv_redbyhbo.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/H/img/HBO_Signature.gif" group-title="PREMIUM By JONATHA",HBO Signature
 https://www.dropbox.com/s/dl/i77lg3livx7qhzj/carawaktv-hbosig.m3u8
 
